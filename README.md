@@ -1,3 +1,5 @@
+Written Analysis
+
 As seen in Fig 1, max temperature seems to have a negative correlation with distance from the equator. 
 The graph resembles that of a negative quadratic function (upside down parabola). This coincides with 
 the scientific fact that temperatures are higher near the equator due to the spherical shape of the earth. 
